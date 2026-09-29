@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="logo-title logo-description">
+  <title id="logo-title">Dub Sub Hub — vivid orange field</title>
+  <desc id="logo-description">Dub in white, Sub in near black, and Hub in bright orange on a raised cream tile over a vivid orange gradient.</desc>
+  <defs>
+    <linearGradient id="orange-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF8744" />
+      <stop offset="52%" stop-color="#FF5C35" />
+      <stop offset="100%" stop-color="#EF4530" />
+    </linearGradient>
+  </defs>
+  <rect id="orange-field" width="1200" height="340" rx="60" fill="url(#orange-gradient)" />
+  <text id="dub-word" x="205" y="220" fill="#FFFFFF" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="154" font-weight="800" letter-spacing="-9" text-anchor="middle">Dub</text>
+  <text id="sub-word" x="535" y="220" fill="#1C1715" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="154" font-weight="800" letter-spacing="-9" text-anchor="middle">Sub</text>
+  <rect id="hub-shadow" x="743" y="64" width="405" height="230" rx="42" fill="#A93620" opacity="0.26" />
+  <rect id="hub-tile" x="735" y="55" width="405" height="230" rx="42" fill="#FFFCF8" />
+  <text id="hub-word" x="937" y="220" fill="#EE4C2C" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="154" font-weight="800" letter-spacing="-9" text-anchor="middle">Hub</text>
+</svg>

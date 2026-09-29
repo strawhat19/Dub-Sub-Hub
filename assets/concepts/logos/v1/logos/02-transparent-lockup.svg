@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="320" viewBox="0 0 1320 320" role="img" aria-labelledby="logo-title logo-description">
+  <title id="logo-title">Dub Sub Hub — transparent lockup</title>
+  <desc id="logo-description">A transparent logo for light surfaces with Dub in white on an orange tile, Sub in black, and Hub in orange on a white outlined tile.</desc>
+  <rect id="dub-tile" x="38" y="45" width="352" height="230" rx="45" fill="#F0A36D" />
+  <text id="dub-word" x="214" y="215" fill="#FFFFFF" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="150" font-weight="800" letter-spacing="-8" text-anchor="middle">Dub</text>
+  <text id="sub-word" x="622" y="215" fill="#171512" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="150" font-weight="800" letter-spacing="-8" text-anchor="middle">Sub</text>
+  <rect id="hub-tile" x="851" y="45" width="426" height="230" rx="45" fill="#FFFCF8" stroke="#E98245" stroke-width="6" />
+  <text id="hub-word" x="1064" y="215" fill="#E98245" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="150" font-weight="800" letter-spacing="-8" text-anchor="middle">Hub</text>
+</svg>

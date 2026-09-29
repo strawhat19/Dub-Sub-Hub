@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="logo-title logo-description">
+  <title id="logo-title">Dub Sub Hub — caption mark</title>
+  <desc id="logo-description">A cream orange logo with a speech bubble that combines a play symbol and caption lines beside a stacked Dub Sub Hub wordmark.</desc>
+  <rect id="cream-field" width="1280" height="420" rx="58" fill="#FFF0E2" />
+  <path id="caption-bubble" d="M119 62h187c42 0 76 34 76 76v140c0 42-34 76-76 76H187l-69 46v-46c-42 0-76-34-76-76V138c0-42 34-76 77-76Z" fill="#E9854B" />
+  <path id="play-symbol" d="m156 122 93 53-93 53v-106Z" fill="#FFFFFF" />
+  <rect id="caption-line-one" x="116" y="269" width="197" height="16" rx="8" fill="#171512" />
+  <rect id="caption-line-two" x="116" y="303" width="146" height="16" rx="8" fill="#171512" />
+  <text id="dub-word" x="423" y="187" fill="#E47C40" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="132" font-weight="800" letter-spacing="-8">Dub</text>
+  <text id="sub-word" x="764" y="187" fill="#171512" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="132" font-weight="800" letter-spacing="-8">Sub</text>
+  <rect id="hub-tile" x="420" y="232" width="386" height="142" rx="33" fill="#FFFFFF" />
+  <text id="hub-word" x="613" y="341" fill="#E47C40" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="118" font-weight="800" letter-spacing="-7" text-anchor="middle">Hub</text>
+</svg>
