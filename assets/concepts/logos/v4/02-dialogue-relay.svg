@@ -1,0 +1,8 @@
+<svg id="dub-sub-hub-v4-dialogue-relay" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="relay-title relay-description">
+  <title id="relay-title">Dub Sub Hub — dialogue relay</title>
+  <desc id="relay-description">An orange speech bubble with white audio bars overlaps a dark speech bubble with cream subtitle lines.</desc>
+  <path id="relay-audio-bubble" d="M34 16h61c12 0 21 9 21 21v44c0 12-9 21-21 21H62l-21 16v-16h-7c-12 0-21-9-21-21V37c0-12 9-21 21-21Z" fill="#F47B3F" />
+  <path id="relay-audio-bars" d="M44 56v11m13-20v29m13-38v47m13-34v22" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" />
+  <path id="relay-caption-bubble" d="M80 59h46c12 0 21 9 21 21v37c0 12-9 21-21 21h-7v16l-21-16H80c-12 0-21-9-21-21V80c0-12 9-21 21-21Z" fill="#211711" stroke="#FFF0E2" stroke-width="4" />
+  <path id="relay-caption-lines" d="M80 92h47m-47 17h36" fill="none" stroke="#FFF0E2" stroke-width="7" stroke-linecap="round" />
+</svg>

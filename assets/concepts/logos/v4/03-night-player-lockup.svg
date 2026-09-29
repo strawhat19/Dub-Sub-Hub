@@ -1,0 +1,12 @@
+<svg id="dub-sub-hub-v4-night-player-lockup" xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="night-title night-description">
+  <title id="night-title">Dub Sub Hub — night player lockup</title>
+  <desc id="night-description">A deep charcoal banner has an orange playback and subtitle icon beside a warm white and orange Dub Sub Hub wordmark.</desc>
+  <rect id="night-field" width="1280" height="320" rx="48" fill="#211711" />
+  <rect id="night-icon-tile" x="50" y="50" width="216" height="220" rx="48" fill="#F47B3F" />
+  <path id="night-play-symbol" d="M121 90c0-5 5-8 9-5l82 52c4 3 4 9 0 12l-82 52c-4 3-9 0-9-5V90Z" fill="#FFFFFF" />
+  <rect id="night-caption-first-line" x="102" y="225" width="112" height="9" rx="4.5" fill="#FFFFFF" />
+  <rect id="night-caption-second-line" x="119" y="243" width="78" height="9" rx="4.5" fill="#FFFFFF" />
+  <text id="night-dub-word" x="310" y="211" fill="#FFF0E2" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="136" font-weight="800" letter-spacing="-7">Dub</text>
+  <text id="night-sub-word" x="572" y="211" fill="#FF9A57" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="136" font-weight="800" letter-spacing="-7">Sub</text>
+  <text id="night-hub-word" x="828" y="211" fill="#FFF0E2" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="136" font-weight="800" letter-spacing="-7">Hub</text>
+</svg>

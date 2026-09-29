@@ -1,0 +1,25 @@
+<svg id="dub-sub-hub-v6-balanced-two-row" xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500" role="img" aria-labelledby="two-row-title two-row-description">
+  <title id="two-row-title">Dub Sub Hub — Balanced Two-Row Orange</title>
+  <desc id="two-row-description">The original two-row arrangement uses matching word widths and consistent layout gutters, with an orange and white relay and a flat white Hub tile.</desc>
+  <defs>
+    <linearGradient id="two-row-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF8744"/>
+      <stop offset="52%" stop-color="#FF5C35"/>
+      <stop offset="100%" stop-color="#EF4530"/>
+    </linearGradient>
+  </defs>
+  <rect id="two-row-field" x="20" y="20" width="1080" height="460" rx="90" fill="url(#two-row-gradient)"/>
+  <rect id="two-row-relay-badge" x="62" y="104" width="286" height="286" rx="62" fill="#D94B27" stroke="#FFFFFF" stroke-width="4"/>
+  <g id="two-row-relay-mark" transform="translate(89 139) scale(1.46)">
+    <path id="two-row-audio-bubble" d="M34 16h61c12 0 21 9 21 21v44c0 12-9 21-21 21H62l-21 16v-16h-7c-12 0-21-9-21-21V37c0-12 9-21 21-21Z" fill="#FFFFFF"/>
+    <path id="two-row-audio-bars" d="M44 56v11m13-20v29m13-38v47m13-34v22" fill="none" stroke="#D94B27" stroke-width="7" stroke-linecap="round"/>
+    <path id="two-row-caption-bubble" d="M80 59h46c12 0 21 9 21 21v37c0 12-9 21-21 21h-7v16l-21-16H80c-12 0-21-9-21-21V80c0-12 9-21 21-21Z" fill="#D94B27" stroke="#FFFFFF" stroke-width="4"/>
+    <path id="two-row-caption-lines" d="M80 92h47m-47 17h36" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <rect id="two-row-hub-tile" x="406" y="250" width="632" height="164" rx="36" fill="#FFFFFF"/>
+  <g id="two-row-wordmark" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="116" font-weight="800" letter-spacing="-7">
+    <text id="two-row-dub-word" x="478" y="202" textLength="220" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">Dub</text>
+    <text id="two-row-sub-word" x="746" y="202" textLength="220" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">Sub</text>
+    <text id="two-row-hub-word" x="612" y="366" textLength="220" lengthAdjust="spacingAndGlyphs" fill="#EE4C2C">Hub</text>
+  </g>
+</svg>

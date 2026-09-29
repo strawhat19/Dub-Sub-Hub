@@ -1,0 +1,14 @@
+<svg id="dub-sub-hub-v4-play-caption-bubble" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="play-caption-title play-caption-description">
+  <title id="play-caption-title">Dub Sub Hub — play and caption bubble</title>
+  <desc id="play-caption-description">A warm orange speech bubble contains a white play symbol and two caption lines.</desc>
+  <defs>
+    <linearGradient id="play-caption-orange" x1="0" y1="0" x2="1" y2="1">
+      <stop id="play-caption-light-stop" offset="0" stop-color="#FF9A57" />
+      <stop id="play-caption-dark-stop" offset="1" stop-color="#F05A32" />
+    </linearGradient>
+  </defs>
+  <path id="play-caption-bubble" d="M37 17h86c16 0 28 12 28 28v56c0 16-12 28-28 28H68l-31 22v-22C21 129 9 117 9 101V45c0-16 12-28 28-28Z" fill="url(#play-caption-orange)" />
+  <path id="play-caption-triangle" d="M58 40c0-4 4-6 7-4l45 29c3 2 3 6 0 8L65 102c-3 2-7 0-7-4V40Z" fill="#FFFFFF" />
+  <rect id="play-caption-first-line" x="47" y="109" width="71" height="7" rx="3.5" fill="#FFFFFF" />
+  <rect id="play-caption-second-line" x="57" y="121" width="51" height="7" rx="3.5" fill="#FFFFFF" />
+</svg>
