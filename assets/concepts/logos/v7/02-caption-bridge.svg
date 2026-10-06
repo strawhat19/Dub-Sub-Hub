@@ -1,0 +1,26 @@
+<svg id="dub-sub-hub-v7-caption-bridge-full" class="logo-concept" xmlns="http://www.w3.org/2000/svg" width="1160" height="560" viewBox="0 0 1160 560" role="img" aria-labelledby="dub-sub-hub-v7-caption-bridge-full-title dub-sub-hub-v7-caption-bridge-full-description">
+  <title id="dub-sub-hub-v7-caption-bridge-full-title">Dub Sub Hub — Caption Bridge</title>
+  <desc id="dub-sub-hub-v7-caption-bridge-full-description">An orange gradient pill places a linked dialogue relay on the left, balanced Dub and Sub words above a full-width flat white Hub tile</desc>
+  <defs id="dub-sub-hub-v7-caption-bridge-full-definitions" class="logo-definitions"><linearGradient id="dub-sub-hub-v7-caption-bridge-full-orange-gradient" class="orange-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop id="dub-sub-hub-v7-caption-bridge-full-gradient-light" class="dub-sub-hub-v7-caption-bridge-full-gradient" offset="0%" stop-color="#FF8744"/>
+  <stop id="dub-sub-hub-v7-caption-bridge-full-gradient-mid" class="dub-sub-hub-v7-caption-bridge-full-gradient" offset="52%" stop-color="#FF5C35"/>
+  <stop id="dub-sub-hub-v7-caption-bridge-full-gradient-deep" class="dub-sub-hub-v7-caption-bridge-full-gradient" offset="100%" stop-color="#EF4530"/>
+  </linearGradient></defs>
+  <g id="dub-sub-hub-v7-caption-bridge-full-lockup" class="dub-logo-lockup">
+  <rect id="dub-sub-hub-v7-caption-bridge-full-pill-field" class="dub-sub-hub-v7-caption-bridge-full-pill" x="20" y="20" width="1120" height="520" rx="116" fill="url(#dub-sub-hub-v7-caption-bridge-full-orange-gradient)"/>
+  <rect id="dub-sub-hub-v7-caption-bridge-full-relay-badge" class="dub-sub-hub-v7-caption-bridge-full-relay" x="64" y="134" width="250" height="280" rx="70" fill="#D94B27" stroke="#FFFFFF" stroke-width="4"/>
+  <g id="dub-sub-hub-v7-caption-bridge-full-positioned-relay" class="positioned-dialogue-relay" transform="translate(75 149) scale(0.89)"><g id="dub-sub-hub-v7-caption-bridge-full-dialogue-relay" class="dialogue-relay">
+  <path id="dub-sub-hub-v7-caption-bridge-full-source-bubble" class="dub-sub-hub-v7-caption-bridge-full-source" d="M39 24h86c15 0 27 12 27 27v61c0 15-12 27-27 27H64l-25 23v-23c-15 0-27-12-27-27V51c0-15 12-27 27-27Z" fill="#FFFFFF"/>
+  <path id="dub-sub-hub-v7-caption-bridge-full-audio-bars" class="dub-sub-hub-v7-caption-bridge-full-audio" d="M43 78v17m23-35v52m23-63v75m23-58v35" fill="none" stroke="#D94B27" stroke-width="9" stroke-linecap="round"/>
+  <path id="dub-sub-hub-v7-caption-bridge-full-bridge-arrow" class="dub-sub-hub-v7-caption-bridge-full-bridge" d="M169 65h30c15 0 24 9 24 23v18m-13-13 13 13 13-13" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path id="dub-sub-hub-v7-caption-bridge-full-translated-bubble" class="dub-sub-hub-v7-caption-bridge-full-translated" d="M137 129h77c15 0 27 12 27 27v38c0 15-12 27-27 27h-19l24 20-43-20h-39c-15 0-27-12-27-27v-38c0-15 12-27 27-27Z" fill="#D94B27" stroke="#FFFFFF" stroke-width="5"/>
+  <path id="dub-sub-hub-v7-caption-bridge-full-translation-lines" class="dub-sub-hub-v7-caption-bridge-full-translation" d="M134 163h83m-83 24h57" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  </g></g>
+  <rect id="dub-sub-hub-v7-caption-bridge-full-hub-tile" class="dub-sub-hub-v7-caption-bridge-full-hub" x="402" y="288" width="610" height="190" rx="43" fill="#FFFFFF"/>
+  <g id="dub-sub-hub-v7-caption-bridge-full-balanced-wordmark" class="balanced-wordmark" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="136" font-weight="800" letter-spacing="-5">
+  <text id="dub-sub-hub-v7-caption-bridge-full-dub-word" class="dub-sub-hub-v7-caption-bridge-full-dub" x="425" y="230" textLength="235" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">Dub</text>
+  <text id="dub-sub-hub-v7-caption-bridge-full-sub-word" class="dub-sub-hub-v7-caption-bridge-full-sub" x="746" y="230" textLength="235" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">Sub</text>
+  <text id="dub-sub-hub-v7-caption-bridge-full-hub-word" class="dub-sub-hub-v7-caption-bridge-full-hub" x="589" y="425" textLength="235" lengthAdjust="spacingAndGlyphs" fill="#EE4C2C">Hub</text>
+  </g>
+  </g>
+</svg>

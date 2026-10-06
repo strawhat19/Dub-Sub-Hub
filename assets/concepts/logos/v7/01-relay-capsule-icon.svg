@@ -1,0 +1,18 @@
+<svg id="dub-sub-hub-v7-relay-capsule-icon" class="logo-concept" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 320 320" role="img" aria-labelledby="dub-sub-hub-v7-relay-capsule-icon-title dub-sub-hub-v7-relay-capsule-icon-description">
+  <title id="dub-sub-hub-v7-relay-capsule-icon-title">Dub Sub Hub — Relay Capsule Icon</title>
+  <desc id="dub-sub-hub-v7-relay-capsule-icon-description">An orange gradient icon contains the Relay Capsule audio-to-caption dialogue relay without its wordmark</desc>
+  <defs id="dub-sub-hub-v7-relay-capsule-icon-definitions" class="logo-definitions"><linearGradient id="dub-sub-hub-v7-relay-capsule-icon-orange-gradient" class="orange-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop id="dub-sub-hub-v7-relay-capsule-icon-gradient-light" class="dub-sub-hub-v7-relay-capsule-icon-gradient" offset="0%" stop-color="#FF8744"/>
+  <stop id="dub-sub-hub-v7-relay-capsule-icon-gradient-mid" class="dub-sub-hub-v7-relay-capsule-icon-gradient" offset="52%" stop-color="#FF5C35"/>
+  <stop id="dub-sub-hub-v7-relay-capsule-icon-gradient-deep" class="dub-sub-hub-v7-relay-capsule-icon-gradient" offset="100%" stop-color="#EF4530"/>
+  </linearGradient></defs>
+  <g id="dub-sub-hub-v7-relay-capsule-icon-icon" class="dub-logo-icon">
+  <rect id="dub-sub-hub-v7-relay-capsule-icon-icon-field" class="dub-sub-hub-v7-relay-capsule-icon-icon" x="12" y="12" width="296" height="296" rx="74" fill="url(#dub-sub-hub-v7-relay-capsule-icon-orange-gradient)"/>
+  <g id="dub-sub-hub-v7-relay-capsule-icon-positioned-relay" class="positioned-dialogue-relay" transform="translate(34 28) scale(0.99)"><g id="dub-sub-hub-v7-relay-capsule-icon-dialogue-relay" class="dialogue-relay">
+  <path id="dub-sub-hub-v7-relay-capsule-icon-audio-bubble" class="dub-sub-hub-v7-relay-capsule-icon-audio" d="M45 25h99c17 0 30 13 30 30v61c0 17-13 30-30 30H69l-29 22v-23c-15-3-25-15-25-29V55c0-17 13-30 30-30Z" fill="#FFFFFF"/>
+  <path id="dub-sub-hub-v7-relay-capsule-icon-waveform" class="dub-sub-hub-v7-relay-capsule-icon" d="M47 78v17m23-32v47m23-63v78m23-58v38" fill="none" stroke="#D94B27" stroke-width="10" stroke-linecap="round"/>
+  <path id="dub-sub-hub-v7-relay-capsule-icon-caption-bubble" class="dub-sub-hub-v7-relay-capsule-icon-caption" d="M127 109h80c17 0 30 13 30 30v42c0 17-13 30-30 30h-1l20 22-43-22h-56c-17 0-30-13-30-30v-42c0-17 13-30 30-30Z" fill="#D94B27" stroke="#FFFFFF" stroke-width="5"/>
+  <path id="dub-sub-hub-v7-relay-capsule-icon-caption-lines" class="dub-sub-hub-v7-relay-capsule-icon-caption" d="M124 147h85m-85 24h61" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  </g></g>
+  </g>
+</svg>

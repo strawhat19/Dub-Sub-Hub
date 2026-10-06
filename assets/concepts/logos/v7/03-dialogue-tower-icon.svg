@@ -1,0 +1,19 @@
+<svg id="dub-sub-hub-v7-dialogue-tower-icon" class="logo-concept" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 320 320" role="img" aria-labelledby="dub-sub-hub-v7-dialogue-tower-icon-title dub-sub-hub-v7-dialogue-tower-icon-description">
+  <title id="dub-sub-hub-v7-dialogue-tower-icon-title">Dub Sub Hub — Dialogue Tower Icon</title>
+  <desc id="dub-sub-hub-v7-dialogue-tower-icon-description">An orange gradient icon contains the Dialogue Tower audio-to-caption dialogue relay without its wordmark</desc>
+  <defs id="dub-sub-hub-v7-dialogue-tower-icon-definitions" class="logo-definitions"><linearGradient id="dub-sub-hub-v7-dialogue-tower-icon-orange-gradient" class="orange-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop id="dub-sub-hub-v7-dialogue-tower-icon-gradient-light" class="dub-sub-hub-v7-dialogue-tower-icon-gradient" offset="0%" stop-color="#FF8744"/>
+  <stop id="dub-sub-hub-v7-dialogue-tower-icon-gradient-mid" class="dub-sub-hub-v7-dialogue-tower-icon-gradient" offset="52%" stop-color="#FF5C35"/>
+  <stop id="dub-sub-hub-v7-dialogue-tower-icon-gradient-deep" class="dub-sub-hub-v7-dialogue-tower-icon-gradient" offset="100%" stop-color="#EF4530"/>
+  </linearGradient></defs>
+  <g id="dub-sub-hub-v7-dialogue-tower-icon-icon" class="dub-logo-icon">
+  <rect id="dub-sub-hub-v7-dialogue-tower-icon-icon-field" class="dub-sub-hub-v7-dialogue-tower-icon-icon" x="12" y="12" width="296" height="296" rx="91" fill="url(#dub-sub-hub-v7-dialogue-tower-icon-orange-gradient)"/>
+  <g id="dub-sub-hub-v7-dialogue-tower-icon-positioned-relay" class="positioned-dialogue-relay" transform="translate(34 28) scale(0.99)"><g id="dub-sub-hub-v7-dialogue-tower-icon-dialogue-relay" class="dialogue-relay">
+  <path id="dub-sub-hub-v7-dialogue-tower-icon-upper-audio-bubble" class="dub-sub-hub-v7-dialogue-tower-icon-upper-audio" d="M55 18h146c15 0 27 12 27 27v42c0 15-12 27-27 27H70l-25 18v-20c-10-4-17-14-17-25V45c0-15 12-27 27-27Z" fill="#FFFFFF"/>
+  <path id="dub-sub-hub-v7-dialogue-tower-icon-upper-waveform" class="dub-sub-hub-v7-dialogue-tower-icon-upper" d="M75 62v10m27-28v47m27-54v62m27-51v42m27-25v7" fill="none" stroke="#D94B27" stroke-width="9" stroke-linecap="round"/>
+  <path id="dub-sub-hub-v7-dialogue-tower-icon-downward-transfer" class="dub-sub-hub-v7-dialogue-tower-icon-downward" d="M128 116v25m-10-10 10 10 10-10" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path id="dub-sub-hub-v7-dialogue-tower-icon-lower-caption-bubble" class="dub-sub-hub-v7-dialogue-tower-icon-lower-caption" d="M55 153h146c15 0 27 12 27 27v31c0 15-12 27-27 27h-7l23 16-43-16H55c-15 0-27-12-27-27v-31c0-15 12-27 27-27Z" fill="#D94B27" stroke="#FFFFFF" stroke-width="5"/>
+  <path id="dub-sub-hub-v7-dialogue-tower-icon-lower-caption-lines" class="dub-sub-hub-v7-dialogue-tower-icon-lower-caption" d="M62 181h132M62 209h97" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  </g></g>
+  </g>
+</svg>

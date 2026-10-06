@@ -1,0 +1,26 @@
+<svg id="dub-sub-hub-v7-dialogue-tower-full" class="logo-concept" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="dub-sub-hub-v7-dialogue-tower-full-title dub-sub-hub-v7-dialogue-tower-full-description">
+  <title id="dub-sub-hub-v7-dialogue-tower-full-title">Dub Sub Hub — Dialogue Tower</title>
+  <desc id="dub-sub-hub-v7-dialogue-tower-full-description">An orange gradient vertical pill pairs a stacked dialogue relay on the left with equally spaced Dub, Sub, and Hub words and a flat white Hub tile</desc>
+  <defs id="dub-sub-hub-v7-dialogue-tower-full-definitions" class="logo-definitions"><linearGradient id="dub-sub-hub-v7-dialogue-tower-full-orange-gradient" class="orange-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop id="dub-sub-hub-v7-dialogue-tower-full-gradient-light" class="dub-sub-hub-v7-dialogue-tower-full-gradient" offset="0%" stop-color="#FF8744"/>
+  <stop id="dub-sub-hub-v7-dialogue-tower-full-gradient-mid" class="dub-sub-hub-v7-dialogue-tower-full-gradient" offset="52%" stop-color="#FF5C35"/>
+  <stop id="dub-sub-hub-v7-dialogue-tower-full-gradient-deep" class="dub-sub-hub-v7-dialogue-tower-full-gradient" offset="100%" stop-color="#EF4530"/>
+  </linearGradient></defs>
+  <g id="dub-sub-hub-v7-dialogue-tower-full-lockup" class="dub-logo-lockup">
+  <rect id="dub-sub-hub-v7-dialogue-tower-full-pill-field" class="dub-sub-hub-v7-dialogue-tower-full-pill" x="20" y="20" width="960" height="960" rx="158" fill="url(#dub-sub-hub-v7-dialogue-tower-full-orange-gradient)"/>
+  <rect id="dub-sub-hub-v7-dialogue-tower-full-relay-badge" class="dub-sub-hub-v7-dialogue-tower-full-relay" x="64" y="300" width="280" height="360" rx="92" fill="#D94B27" stroke="#FFFFFF" stroke-width="4"/>
+  <g id="dub-sub-hub-v7-dialogue-tower-full-positioned-relay" class="positioned-dialogue-relay" transform="translate(73 350) scale(1.02)"><g id="dub-sub-hub-v7-dialogue-tower-full-dialogue-relay" class="dialogue-relay">
+  <path id="dub-sub-hub-v7-dialogue-tower-full-upper-audio-bubble" class="dub-sub-hub-v7-dialogue-tower-full-upper-audio" d="M55 18h146c15 0 27 12 27 27v42c0 15-12 27-27 27H70l-25 18v-20c-10-4-17-14-17-25V45c0-15 12-27 27-27Z" fill="#FFFFFF"/>
+  <path id="dub-sub-hub-v7-dialogue-tower-full-upper-waveform" class="dub-sub-hub-v7-dialogue-tower-full-upper" d="M75 62v10m27-28v47m27-54v62m27-51v42m27-25v7" fill="none" stroke="#D94B27" stroke-width="9" stroke-linecap="round"/>
+  <path id="dub-sub-hub-v7-dialogue-tower-full-downward-transfer" class="dub-sub-hub-v7-dialogue-tower-full-downward" d="M128 116v25m-10-10 10 10 10-10" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path id="dub-sub-hub-v7-dialogue-tower-full-lower-caption-bubble" class="dub-sub-hub-v7-dialogue-tower-full-lower-caption" d="M55 153h146c15 0 27 12 27 27v31c0 15-12 27-27 27h-7l23 16-43-16H55c-15 0-27-12-27-27v-31c0-15 12-27 27-27Z" fill="#D94B27" stroke="#FFFFFF" stroke-width="5"/>
+  <path id="dub-sub-hub-v7-dialogue-tower-full-lower-caption-lines" class="dub-sub-hub-v7-dialogue-tower-full-lower-caption" d="M62 181h132M62 209h97" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  </g></g>
+  <rect id="dub-sub-hub-v7-dialogue-tower-full-hub-tile" class="dub-sub-hub-v7-dialogue-tower-full-hub" x="414" y="626" width="404" height="250" rx="54" fill="#FFFFFF"/>
+  <g id="dub-sub-hub-v7-dialogue-tower-full-balanced-wordmark" class="balanced-wordmark" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="180" font-weight="800" letter-spacing="-5">
+  <text id="dub-sub-hub-v7-dialogue-tower-full-dub-word" class="dub-sub-hub-v7-dialogue-tower-full-dub" x="446" y="265" textLength="340" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">Dub</text>
+  <text id="dub-sub-hub-v7-dialogue-tower-full-sub-word" class="dub-sub-hub-v7-dialogue-tower-full-sub" x="446" y="545" textLength="340" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">Sub</text>
+  <text id="dub-sub-hub-v7-dialogue-tower-full-hub-word" class="dub-sub-hub-v7-dialogue-tower-full-hub" x="446" y="825" textLength="340" lengthAdjust="spacingAndGlyphs" fill="#EE4C2C">Hub</text>
+  </g>
+  </g>
+</svg>

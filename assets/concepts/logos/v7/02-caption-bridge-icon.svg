@@ -1,0 +1,19 @@
+<svg id="dub-sub-hub-v7-caption-bridge-icon" class="logo-concept" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 320 320" role="img" aria-labelledby="dub-sub-hub-v7-caption-bridge-icon-title dub-sub-hub-v7-caption-bridge-icon-description">
+  <title id="dub-sub-hub-v7-caption-bridge-icon-title">Dub Sub Hub — Caption Bridge Icon</title>
+  <desc id="dub-sub-hub-v7-caption-bridge-icon-description">An orange gradient icon contains the Caption Bridge audio-to-caption dialogue relay without its wordmark</desc>
+  <defs id="dub-sub-hub-v7-caption-bridge-icon-definitions" class="logo-definitions"><linearGradient id="dub-sub-hub-v7-caption-bridge-icon-orange-gradient" class="orange-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop id="dub-sub-hub-v7-caption-bridge-icon-gradient-light" class="dub-sub-hub-v7-caption-bridge-icon-gradient" offset="0%" stop-color="#FF8744"/>
+  <stop id="dub-sub-hub-v7-caption-bridge-icon-gradient-mid" class="dub-sub-hub-v7-caption-bridge-icon-gradient" offset="52%" stop-color="#FF5C35"/>
+  <stop id="dub-sub-hub-v7-caption-bridge-icon-gradient-deep" class="dub-sub-hub-v7-caption-bridge-icon-gradient" offset="100%" stop-color="#EF4530"/>
+  </linearGradient></defs>
+  <g id="dub-sub-hub-v7-caption-bridge-icon-icon" class="dub-logo-icon">
+  <rect id="dub-sub-hub-v7-caption-bridge-icon-icon-field" class="dub-sub-hub-v7-caption-bridge-icon-icon" x="12" y="12" width="296" height="296" rx="74" fill="url(#dub-sub-hub-v7-caption-bridge-icon-orange-gradient)"/>
+  <g id="dub-sub-hub-v7-caption-bridge-icon-positioned-relay" class="positioned-dialogue-relay" transform="translate(34 28) scale(0.99)"><g id="dub-sub-hub-v7-caption-bridge-icon-dialogue-relay" class="dialogue-relay">
+  <path id="dub-sub-hub-v7-caption-bridge-icon-source-bubble" class="dub-sub-hub-v7-caption-bridge-icon-source" d="M39 24h86c15 0 27 12 27 27v61c0 15-12 27-27 27H64l-25 23v-23c-15 0-27-12-27-27V51c0-15 12-27 27-27Z" fill="#FFFFFF"/>
+  <path id="dub-sub-hub-v7-caption-bridge-icon-audio-bars" class="dub-sub-hub-v7-caption-bridge-icon-audio" d="M43 78v17m23-35v52m23-63v75m23-58v35" fill="none" stroke="#D94B27" stroke-width="9" stroke-linecap="round"/>
+  <path id="dub-sub-hub-v7-caption-bridge-icon-bridge-arrow" class="dub-sub-hub-v7-caption-bridge-icon-bridge" d="M169 65h30c15 0 24 9 24 23v18m-13-13 13 13 13-13" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path id="dub-sub-hub-v7-caption-bridge-icon-translated-bubble" class="dub-sub-hub-v7-caption-bridge-icon-translated" d="M137 129h77c15 0 27 12 27 27v38c0 15-12 27-27 27h-19l24 20-43-20h-39c-15 0-27-12-27-27v-38c0-15 12-27 27-27Z" fill="#D94B27" stroke="#FFFFFF" stroke-width="5"/>
+  <path id="dub-sub-hub-v7-caption-bridge-icon-translation-lines" class="dub-sub-hub-v7-caption-bridge-icon-translation" d="M134 163h83m-83 24h57" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  </g></g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg id="dub-sub-hub-v7-relay-capsule-full" class="logo-concept" xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="dub-sub-hub-v7-relay-capsule-full-title dub-sub-hub-v7-relay-capsule-full-description">
+  <title id="dub-sub-hub-v7-relay-capsule-full-title">Dub Sub Hub — Relay Capsule</title>
+  <desc id="dub-sub-hub-v7-relay-capsule-full-description">An orange gradient capsule joins an overlapping dialogue relay on the left to equal-width Dub, Sub, and Hub words with a flat white Hub tile</desc>
+  <defs id="dub-sub-hub-v7-relay-capsule-full-definitions" class="logo-definitions"><linearGradient id="dub-sub-hub-v7-relay-capsule-full-orange-gradient" class="orange-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop id="dub-sub-hub-v7-relay-capsule-full-gradient-light" class="dub-sub-hub-v7-relay-capsule-full-gradient" offset="0%" stop-color="#FF8744"/>
+  <stop id="dub-sub-hub-v7-relay-capsule-full-gradient-mid" class="dub-sub-hub-v7-relay-capsule-full-gradient" offset="52%" stop-color="#FF5C35"/>
+  <stop id="dub-sub-hub-v7-relay-capsule-full-gradient-deep" class="dub-sub-hub-v7-relay-capsule-full-gradient" offset="100%" stop-color="#EF4530"/>
+  </linearGradient></defs>
+  <g id="dub-sub-hub-v7-relay-capsule-full-lockup" class="dub-logo-lockup">
+  <rect id="dub-sub-hub-v7-relay-capsule-full-pill-field" class="dub-sub-hub-v7-relay-capsule-full-pill" x="20" y="30" width="1400" height="360" rx="170" fill="url(#dub-sub-hub-v7-relay-capsule-full-orange-gradient)"/>
+  <rect id="dub-sub-hub-v7-relay-capsule-full-relay-badge" class="dub-sub-hub-v7-relay-capsule-full-relay" x="70" y="80" width="260" height="260" rx="66" fill="#D94B27" stroke="#FFFFFF" stroke-width="4"/>
+  <g id="dub-sub-hub-v7-relay-capsule-full-positioned-relay" class="positioned-dialogue-relay" transform="translate(83 92) scale(0.91)"><g id="dub-sub-hub-v7-relay-capsule-full-dialogue-relay" class="dialogue-relay">
+  <path id="dub-sub-hub-v7-relay-capsule-full-audio-bubble" class="dub-sub-hub-v7-relay-capsule-full-audio" d="M45 25h99c17 0 30 13 30 30v61c0 17-13 30-30 30H69l-29 22v-23c-15-3-25-15-25-29V55c0-17 13-30 30-30Z" fill="#FFFFFF"/>
+  <path id="dub-sub-hub-v7-relay-capsule-full-waveform" class="dub-sub-hub-v7-relay-capsule-full" d="M47 78v17m23-32v47m23-63v78m23-58v38" fill="none" stroke="#D94B27" stroke-width="10" stroke-linecap="round"/>
+  <path id="dub-sub-hub-v7-relay-capsule-full-caption-bubble" class="dub-sub-hub-v7-relay-capsule-full-caption" d="M127 109h80c17 0 30 13 30 30v42c0 17-13 30-30 30h-1l20 22-43-22h-56c-17 0-30-13-30-30v-42c0-17 13-30 30-30Z" fill="#D94B27" stroke="#FFFFFF" stroke-width="5"/>
+  <path id="dub-sub-hub-v7-relay-capsule-full-caption-lines" class="dub-sub-hub-v7-relay-capsule-full-caption" d="M124 147h85m-85 24h61" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  </g></g>
+  <rect id="dub-sub-hub-v7-relay-capsule-full-hub-tile" class="dub-sub-hub-v7-relay-capsule-full-hub" x="1048" y="98" width="302" height="230" rx="50" fill="#FFFFFF"/>
+  <g id="dub-sub-hub-v7-relay-capsule-full-balanced-wordmark" class="balanced-wordmark" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="144" font-weight="800" letter-spacing="-5">
+  <text id="dub-sub-hub-v7-relay-capsule-full-dub-word" class="dub-sub-hub-v7-relay-capsule-full-dub" x="430" y="272" textLength="250" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">Dub</text>
+  <text id="dub-sub-hub-v7-relay-capsule-full-sub-word" class="dub-sub-hub-v7-relay-capsule-full-sub" x="752" y="272" textLength="250" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">Sub</text>
+  <text id="dub-sub-hub-v7-relay-capsule-full-hub-word" class="dub-sub-hub-v7-relay-capsule-full-hub" x="1074" y="272" textLength="250" lengthAdjust="spacingAndGlyphs" fill="#EE4C2C">Hub</text>
+  </g>
+  </g>
+</svg>
